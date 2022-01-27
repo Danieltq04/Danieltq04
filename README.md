@@ -1,5 +1,3 @@
-# Daniel
-<h2 align="center">About me</h2>
 <p align="center">
   <img src="http://imgfz.com/i/OrBEdbv.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
