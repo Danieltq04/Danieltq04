@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Techs I use</h3>
+<h3 align="center">Techs I use :nerd_face:	</h3>
 
 <p align="center"> 
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="HTML" width="40" height="40"/> </a>
@@ -20,10 +20,12 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
   <a href="https://www.postman.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>  
   <a href="https://swagger.io/" target="_blank"> <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="swagger" width="40" height="40"/> </a>  
+  <a href="https://www.java.com/es" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>  
+  <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.armadilloamarillo.com/wp-content/uploads/course-image.png" alt="spring-boot" width="40" height="40"/> </a> 
 </p>
 
 
-<h3 align="center">I’m currently learning</h3>
+<h3 align="center">📚 I’m currently learning</h3>
 <p align="center">
 <a href="https://nextjs.org/" target="_blank"> <img src="https://docs.microsoft.com/es-es/windows/images/nextjs-logo.png" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/> </a>
@@ -34,8 +36,13 @@
 
 
 <!--
+<h3 align="center">:books: I want to learn </h3>
+<h3 align="center">:books: Other Languages I know :cowboy_hat_face:	</h3>
+LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<h3 align="center">You can reach me at :alien:</h3>
+<h3 align="center">You can find in 🌍</h3>
+
+
 <p align="center">
   <a href="https://dev.to/anhello">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
