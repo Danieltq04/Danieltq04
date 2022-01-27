@@ -33,10 +33,11 @@
 
 </p>
 
-<h3 align="center">:books: Other Languages I know :cowboy_hat_face:	</h3>
+<h3 align="center">Other Languages I know :cowboy_hat_face:	</h3>
+<p align="center"> 
 <a href="https://www.java.com/es" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40"/> </a>  
   <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.armadilloamarillo.com/wp-content/uploads/course-image.png" alt="spring-boot" width="40" height="40"/> </a> 
-
+</p>
 
 <!--
 <h3 align="center">:books: I want to learn </h3>
