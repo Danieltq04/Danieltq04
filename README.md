@@ -18,21 +18,22 @@
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
+  <a href="https://www.postman.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>  
+  <a href="https://swagger.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/7658037?s=280&v=4" alt="swagger" width="40" height="40"/> </a>  
 </p>
 
+
+<h3 align="center">I’m currently learning</h3>
+<p align="center">
+<a href="https://nextjs.org/" target="_blank"> <img src="https://docs.microsoft.com/es-es/windows/images/nextjs-logo.png" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://kubernetes.io/es/" target="_blank"> <img src="https://kubernetes.io/images/favicon.png" alt="kubernetes" width="40" height="40"/> </a>
+
+</p>
 
 
 <!--
-<h3 align="center">I’m currently learning</h3>
-<p align="center">
-<a href="https://dart.dev" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
-
-</p>
-
-
-
 
 <h3 align="center">You can reach me at :alien:</h3>
 <p align="center">
