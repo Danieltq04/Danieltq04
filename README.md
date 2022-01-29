@@ -20,6 +20,8 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
   <a href="https://www.postman.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>  
   <a href="https://swagger.io/" target="_blank"> <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="swagger" width="40" height="40"/> </a>  
+  <a href="https://www.scrum.org/" target="_blank"> <img src="http://imgfz.com/i/hIOmw7B.png" alt="scrum" width="40" height="40"/> </a>  
+  
   
 </p>
 
