@@ -17,7 +17,6 @@
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
   <a href="https://www.postman.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/7853266/44114706-9c72dd08-9fd1-11e8-8d9d-6d9d651c75ad.png" alt="postman" width="40" height="40"/> </a>  
   <a href="https://swagger.io/" target="_blank"> <img src="https://static1.smartbear.co/swagger/media/assets/swagger_fav.png" alt="swagger" width="40" height="40"/> </a>  
   <a href="https://www.scrum.org/" target="_blank"> <img src="http://imgfz.com/i/hIOmw7B.png" alt="scrum" width="40" height="40"/> </a>  
@@ -28,6 +27,7 @@
 
 <h3 align="center">📚 I’m currently learning</h3>
 <p align="center">
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
 <a href="https://nextjs.org/" target="_blank"> <img src="https://docs.microsoft.com/es-es/windows/images/nextjs-logo.png" alt="nextjs" width="40" height="40"/> </a>
   <a href="https://graphql.org/" target="_blank"> <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
